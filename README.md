@@ -6,6 +6,7 @@
 ## Power BI Projects
 
 ## Excel Projects
+- [Customer Churn Analysis](https://github.com/SadiaAfrinT/Customer-Churn-Analysis-Using-Excel/blob/main/README.md)
 
 ## Certifications
 - [Enterprise Resource Planning with SAP S/4HANA (TS410)](https://e-zertifikat.th-brandenburg.de/ubebh-igizk-vytep-pazcy-vipoy?lang=en)<br>
